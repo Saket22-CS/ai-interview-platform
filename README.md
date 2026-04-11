@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="public/logo.png" alt="Prepped Logo" width="80" />
+<img src="public/logo.png" alt="Prept Logo" width="80" />
 
-# 🎯 Prepped — AI-Powered Interview Platform
+# 🎯 Prept — AI-Powered Interview Platform
 
 **A full-stack, production-ready interview preparation marketplace where candidates meet expert interviewers, powered by real-time AI.**
 
@@ -37,7 +37,7 @@
 
 ## 🌟 Overview
 
-**Prepped** is a comprehensive AI-powered interview preparation marketplace built entirely from scratch. It bridges the gap between candidates preparing for technical interviews and experienced interviewers, offering a seamless end-to-end platform that includes:
+**Prept** is a comprehensive AI-powered interview preparation marketplace built entirely from scratch. It bridges the gap between candidates preparing for technical interviews and experienced interviewers, offering a seamless end-to-end platform that includes:
 
 - 🎥 **Live HD Video Interviews** with screen sharing and persistent chat
 - 🤖 **AI-Generated Feedback Reports** powered by Google Gemini
